@@ -1,2 +1,2 @@
 # upload-documents
-Upload documents to a specific post where you can download them from
+Upload documents right inside a post
